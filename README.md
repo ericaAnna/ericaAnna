@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericaAnna
 - 👀 I’m interested in ... learning programming, automation and computer processeses
-- 🌱 I’m currently learning ...python, Java, SQL
+- 🌱 I’m currently learning ...python, Java programming, SQL, database management,web programming, mobile graphical interface programming  
 - 💞️ I’m looking to collaborate on ...java program and coding project which I can learn 
 - 📫 How to reach me ... ericaanna_lorenzo@yahoo.com, ericaannalorenzo1989@gmail.com
 
